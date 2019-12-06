@@ -41,9 +41,9 @@ V:
 <!-- .slide: data-background="#7E2121"  -->
 ## Recursos para aprender Rust:
 
-[Link repositorio](https://github.com/FutureUN/RustTutorial/)
-[Presentación](https://futureun.github.io/RustTutorial/#/themes)
-[Taller Rust](https://docs.google.com/document/d/129_IjcLVAvnH10cSYi1EZsEurrqqiDX7-dGC3tGyP-8/edit?usp=sharing)
-[Dcumentación Oficial](https://doc.rust-lang.org/book/)
+* [Link repositorio](https://github.com/FutureUN/RustTutorial/)
+* [Presentación](https://futureun.github.io/RustTutorial/#/themes)
+* [Taller Rust](https://docs.google.com/document/d/129_IjcLVAvnH10cSYi1EZsEurrqqiDX7-dGC3tGyP-8/edit?usp=sharing)
+* [Dcumentación Oficial](https://doc.rust-lang.org/book/)
 
 
